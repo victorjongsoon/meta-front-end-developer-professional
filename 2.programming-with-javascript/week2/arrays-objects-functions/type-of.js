@@ -44,3 +44,6 @@ console.log(test); // boolean
 
 var test = typeof([1, 2, 3]);
 console.log(test); // object
+
+var name = "";
+console.log(typeof(name)); // string
