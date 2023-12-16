@@ -1,0 +1,17 @@
+/* Custom styles for Hair Day */
+#logo {
+    width: 150px;
+    /* Adjust as needed */
+    height: auto;
+}
+
+/* Use a gradient or image for the promotion banner background */
+.promotion-banner {
+    background: linear-gradient(45deg, #6CC1FF, #3D348B);
+    color: #fff;
+}
+
+/* Add a subtle shadow to cards for depth */
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
